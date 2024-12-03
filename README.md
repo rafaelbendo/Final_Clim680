@@ -74,7 +74,8 @@ Link to figures
 
 # LOWESS and regression line
 
-![image](https://github.com/user-attachments/assets/93f8166d-ea75-4144-8422-632ab43408eb)
+![image](https://github.com/user-attachments/assets/f8081c53-7f20-4769-bde2-ca78716efcb8)
+
 
 ![LOWESS](https://github.com/user-attachments/assets/f74a304d-0641-4e0f-85c4-0050e94c0151)
 
@@ -84,22 +85,31 @@ Link to figures
 
 ![image](https://github.com/user-attachments/assets/eef50e3f-6087-4567-aa84-e758b131b2c6)
 
+This figure shows the Sea Ice Concentration Anomaly (%) over time. The anomaly values represent deviations from the long-term average sea ice concentration.
 
-![image](https://github.com/user-attachments/assets/48d3f2dd-86ff-47ea-9e8a-595194607908)
+There is a gradual decline in the sea ice concentration anomaly, particularly noticeable from the late 2000s onward. This reflects a long-term decrease in Arctic sea ice concentration, likely related to climate change and global warming.
 
-![image](https://github.com/user-attachments/assets/9b3de6d0-edff-4ee4-88ba-cff39560f0b7) (update this map)
+Between 1950 and 1970, the anomalies appear more variable but centered around zero, indicating smaller deviations from the average.
+
+Starting from the 1980s, negative anomalies become more frequent and pronounced. The anomalies reach their most negative values after 2000, indicating a significant reduction in sea ice concentration relative to the long-term mean.
+
+The figure also shows considerable interannual variability throughout the time series, with peaks and troughs that might correspond to seasonal, regional, or atmospheric influences such as the Arctic Oscillation (AO) or El Niño-Southern Oscillation (ENSO). The declining trend is consistent with observed Arctic sea ice loss due to rising global temperatures. The variability suggests influences from natural climate oscillations or episodic weather events. This visualization highlights the need for further exploration of climate drivers contributing to these changes.
+
+![image](https://github.com/user-attachments/assets/16ce43f7-92b4-48a9-b67c-f7fa56cc2216)
+
+![image](https://github.com/user-attachments/assets/d92b8f38-4962-402a-9a2e-04928c59f134)
 
 ![image](https://github.com/user-attachments/assets/bae32308-43f2-43f5-b3c7-bcf124c0d3a4)
 
-![animation_monthly_7](https://github.com/user-attachments/assets/d52e4fa1-6bb2-4f1f-a98c-f148f669aa34) ![animation_monthly_6](https://github.com/user-attachments/assets/db4fb6b6-ba98-448d-9ec5-09ba4b1bda51)
-![animation_monthly_5](https://github.com/user-attachments/assets/449f088b-ecdf-463d-97d9-3724d879eacd) ![animation_monthly_4](https://github.com/user-attachments/assets/41a45d4d-1b7a-4b3e-a66f-9f5b79f95b3d)
-![animation_monthly_3](https://github.com/user-attachments/assets/164feab8-f8b5-4ca9-8007-6b4eb28235b1) ![animation_monthly_2](https://github.com/user-attachments/assets/b65b3f6f-d70f-4cdd-a51b-f28fcad7fa45)
-![animation_monthly_1](https://github.com/user-attachments/assets/567eefc7-6cc4-4e19-b269-6e5502cdde6a) ![animation_monthly_12](https://github.com/user-attachments/assets/32728d1e-2db1-4ea5-8552-1a52fabf40f9)
-![animation_monthly_11](https://github.com/user-attachments/assets/44e73cf7-8bd0-4f77-96ef-528110d36086) ![animation_monthly_10](https://github.com/user-attachments/assets/a5af1f70-ccd5-4dc2-a11d-44a940d7d3e3)
-![animation_monthly_9](https://github.com/user-attachments/assets/3f820f08-b215-4c6e-a724-fcb24675ffd7) ![animation_monthly_8](https://github.com/user-attachments/assets/135b3079-401e-4127-aa0c-eaba6358b88f)
+![animation_monthly_7](https://github.com/user-attachments/assets/d52e4fa1-6bb2-4f1f-a98c-f148f669aa34) 
+
+![animation_monthly_8](https://github.com/user-attachments/assets/135b3079-401e-4127-aa0c-eaba6358b88f)
+
+![animation_monthly_9](https://github.com/user-attachments/assets/d6d35493-e4dd-4e1d-b5d2-5ce97622ad84)
 
 
 
+![image](https://github.com/user-attachments/assets/9a63eaca-0437-4fa0-8d03-e30c0994d172)
 
 
 

@@ -41,14 +41,6 @@ Sea ice concentration datasets provide a measure of the proportion of an ocean s
 
 The integration of these datasets—AO Index, COBE-SST2, and sea ice concentration—provides a robust framework for investigating the Arctic's response to climatic drivers, facilitating detailed analysis of the interplay between atmospheric circulation, ocean temperatures, and cryospheric changes.
 
-![image](https://github.com/user-attachments/assets/a751a110-3d3c-4966-950d-1554ad1a09e2)
-
-This figure shows the monthly mean Sea Ice Concentration (%) over time in a specific Arctic region. It consists of 12 panels, one for each month, illustrating seasonal variations in sea ice concentration.
-
-Winter Months (January–March): High sea ice concentration, covering most of the mapped area. Spring and Early Summer (April–June): A gradual reduction in ice coverage is observed, with areas expanding near coastal regions. Summer Months (July–September): Minimum ice concentration is evident, with large areas of open water, particularly near coastal and southern regions. Autumn and Early Winter (October–December): Ice begins to reform, transitioning back to high concentrations by December.
-Geographical Features:
-
-The figure highlights the seasonal cycle of sea ice in the Arctic, where ice builds up during colder months and retreats during warmer months. This behavior is critical for understanding Arctic climate dynamics and the impacts of global warming on ice extent.
 
 ### link
 
@@ -67,20 +59,32 @@ The climate.yml file is shown to define the environment needed to run all code s
 
 Over the past several decades, Arctic sea ice concentration has experienced a dramatic and accelerating decline, driven primarily by global warming. The Arctic is warming nearly four times faster than the global average, a phenomenon known as Arctic amplification. This rapid warming leads to earlier ice melt in spring, delayed freeze-up in fall, and a thinning of the ice pack year-round. Satellite observations reveal that the extent of summer sea ice has decreased by more than 40% since the late 1970s, with multiyear ice—thicker, older ice that is more resilient to melting—being replaced by thinner, seasonal ice. These changes in ice concentration have profound implications for the energy balance of the Arctic, as reduced ice cover lowers surface albedo, amplifying heat absorption and further accelerating ice loss.
 
-he declining ice concentration in the Arctic has far-reaching consequences for the region and the global climate system. Reduced ice cover impacts ecosystems that depend on stable sea ice, disrupts the livelihoods of Indigenous communities, and opens previously inaccessible Arctic waters to commercial activity such as shipping and resource extraction. On a global scale, diminished ice concentration alters atmospheric and oceanic circulation patterns, influencing weather extremes far from the Arctic. The melting ice also contributes to rising sea levels, exacerbating risks for coastal communities worldwide. As ice concentration continues to decrease, understanding its drivers, including climate oscillations like the Arctic Oscillation, becomes critical to predicting future changes and mitigating their impacts.
+The declining ice concentration in the Arctic has far-reaching consequences for the region and the global climate system. Reduced ice cover impacts ecosystems that depend on stable sea ice, disrupts the livelihoods of Indigenous communities, and opens previously inaccessible Arctic waters to commercial activity such as shipping and resource extraction. On a global scale, diminished ice concentration alters atmospheric and oceanic circulation patterns, influencing weather extremes far from the Arctic. The melting ice also contributes to rising sea levels, exacerbating risks for coastal communities worldwide. As ice concentration continues to decrease, understanding its drivers, including climate oscillations like the Arctic Oscillation, becomes critical to predicting future changes and mitigating their impacts.
 
-![image](https://github.com/user-attachments/assets/eef50e3f-6087-4567-aa84-e758b131b2c6)
 
+
+![image](https://github.com/user-attachments/assets/16ce43f7-92b4-48a9-b67c-f7fa56cc2216) 
+add legend
+
+
+![image](https://github.com/user-attachments/assets/d92b8f38-4962-402a-9a2e-04928c59f134)
 
 
 # Climatology and Anomalies
 
+This panel plot presents the spatial distribution of mean sea ice concentration across a full year, organized into 12 monthly panels (January through December). The region of interest appears to be part of the Arctic Ocean, surrounding the Alaskan coastline, including the Beaufort and Chukchi Seas. Each subplot visualizes sea ice concentration as a percentage, using a color scale ranging from purple (0%), indicating no ice, to yellow (100%), indicating complete sea ice coverage.
+
+This panel plot is a valuable tool for understanding the seasonal dynamics of Arctic sea ice and provides insights into how climate variability influences the extent of sea ice coverage throughout the year.
+
+![image](https://github.com/user-attachments/assets/de8f5bd1-c698-446b-b3b4-fdd926eb6453)
+
+This figure shows the monthly mean Sea Ice Concentration (%) over time in a specific Arctic region. It consists of 12 panels, one for each month, illustrating seasonal variations in sea ice concentration.
+
+The figure highlights the seasonal cycle of sea ice in the Arctic, where ice builds up during colder months and retreats during warmer months. This behavior is critical for understanding Arctic climate dynamics and the impacts of global warming on ice extent.
+
 
 ![image](https://github.com/user-attachments/assets/eef50e3f-6087-4567-aa84-e758b131b2c6)
 
-# LOWESS and regression line
-
-![image](https://github.com/user-attachments/assets/f8081c53-7f20-4769-bde2-ca78716efcb8)
 This figure shows the Sea Ice Concentration Anomaly (%) over time. The anomaly values represent deviations from the long-term average sea ice concentration.
 
 There is a gradual decline in the sea ice concentration anomaly, particularly noticeable from the late 2000s onward. This reflects a long-term decrease in Arctic sea ice concentration, likely related to climate change and global warming.
@@ -91,31 +95,37 @@ Starting from the 1980s, negative anomalies become more frequent and pronounced.
 
 The figure also shows considerable interannual variability throughout the time series, with peaks and troughs that might correspond to seasonal, regional, or atmospheric influences such as the Arctic Oscillation (AO) or El Niño-Southern Oscillation (ENSO). The declining trend is consistent with observed Arctic sea ice loss due to rising global temperatures. The variability suggests influences from natural climate oscillations or episodic weather events. This visualization highlights the need for further exploration of climate drivers contributing to these changes.
 
-![LOWESS](https://github.com/user-attachments/assets/f74a304d-0641-4e0f-85c4-0050e94c0151)
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/16ce43f7-92b4-48a9-b67c-f7fa56cc2216)
-
-![image](https://github.com/user-attachments/assets/d92b8f38-4962-402a-9a2e-04928c59f134)
-
-
-Sea ICEC Anomaly
-
-![image](https://github.com/user-attachments/assets/bae32308-43f2-43f5-b3c7-bcf124c0d3a4)
-
-
-motion
+### motion
+To better understand the patterns of Arctic ice concentration anomalies, we present three animated GIFs that illustrate the mean ice concentration anomalies for the summer months of June, July, and August. These visualizations provide a dynamic and comprehensive view of how sea ice has deviated from its long-term average during the critical summer melt season.
+### motion
 
 ![animation_monthly_7](https://github.com/user-attachments/assets/d52e4fa1-6bb2-4f1f-a98c-f148f669aa34) 
 
 ![animation_monthly_8](https://github.com/user-attachments/assets/135b3079-401e-4127-aa0c-eaba6358b88f)
 
 ![animation_monthly_9](https://github.com/user-attachments/assets/d6d35493-e4dd-4e1d-b5d2-5ce97622ad84)
+
+The first animation focuses on July, a pivotal month marking the transition to peak melting conditions. This visualization highlights the early stages of ice loss, showing regions with the most significant anomalies as warmer temperatures begin to dominate. Watch as the anomaly patterns intensify in marginal ice zones, particularly near the edges of the ice pack.
+
+The August GIF showcases the period of accelerated melting. During this time, the Arctic Ocean experiences widespread reductions in ice concentration, with pronounced anomalies spreading across larger areas. This animation underscores how rapidly the Arctic responds to seasonal warming, providing insights into the dynamics of mid-summer ice loss.
+
+The September animation captures the culmination of the melt season, as ice concentration anomalies reach their peak. This GIF reveals regions with persistent negative anomalies, signifying areas where the ice is not recovering as expected. The stark contrast between anomaly zones and the remaining ice underscores the severity of summer ice depletion in recent years.
+
+These animations serve as a powerful tool for visualizing and understanding the summer ice concentration anomalies in the Arctic. They not only highlight the spatial and temporal variability of ice loss but also underscore the urgency of addressing the broader climate drivers influencing these changes.
+
+Sea ICEC Anomaly
+
+![image](https://github.com/user-attachments/assets/bae32308-43f2-43f5-b3c7-bcf124c0d3a4)
+
+# Composites and mean differences with AO
+
+
+
+
+
+
+
+
 
 
 

@@ -154,9 +154,11 @@ By isolating areas of significant change, this plot provides insight into the dy
 
 # Summary, Discussion, and Future Work
 
-# References
+This project investigates the dynamic interplay between climatic indices and Arctic sea ice concentration, highlighting how atmospheric and oceanic conditions influence the seasonal and spatial variability of ice cover. By integrating datasets such as sea surface temperatures, the Arctic Oscillation (AO), and ice concentration anomalies, the analysis reveals distinct patterns linking positive and negative AO phases with ice extent changes. The results demonstrate that positive AO conditions are associated with reduced ice concentration due to enhanced advection of warm air and ocean currents, while negative AO phases promote ice retention. Visualizations, including composite maps and time-series analyses, provide a comprehensive depiction of these processes, emphasizing the importance of combining spatial and temporal perspectives in Arctic climate research.
 
-# Results and Analysis
+Future efforts will focus on expanding the scope of this analysis to include additional climatic indices, such as the Pacific Decadal Oscillation and ENSO, to better understand their combined influence on Arctic ice dynamics. Incorporating higher-resolution datasets and more advanced machine learning techniques will allow for deeper insights into localized impacts and trends. Furthermore, studying feedback mechanisms, such as the influence of reduced ice cover on regional albedo and atmospheric circulation, will provide a more holistic understanding of Arctic climate change. Ultimately, this research aims to enhance predictive capabilities and contribute to developing effective strategies for mitigating the impacts of a rapidly changing Arctic on global climate systems.
+
+# Links
 
 Project Notebook via Github
 

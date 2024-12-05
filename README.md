@@ -119,17 +119,29 @@ Sea ICEC Anomaly
 
 # Composites and mean differences with AO
 
+![image](https://github.com/user-attachments/assets/5d09d6e3-d1d3-4dc1-93f4-327de47a75f4)
 
 
 
+## Ice Difference
+
+![image](https://github.com/user-attachments/assets/1acfd897-59d0-45cf-be30-4ef57a72a085)
 
 
 
+## Significance
+
+![image](https://github.com/user-attachments/assets/82eb2a0d-3b8e-4f03-8eae-c769c378ee7c)
 
 
+## Mask where is significant
+
+![image](https://github.com/user-attachments/assets/97d32196-e278-464e-91cb-33845649309f)
 
 
-![image](https://github.com/user-attachments/assets/9a63eaca-0437-4fa0-8d03-e30c0994d172)
+## Diffences 
+
+![image](https://github.com/user-attachments/assets/332c8c14-5b82-440d-9c01-05b3272ac4a9)
 
 
 # Summary, Discussion, and Future Work

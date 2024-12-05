@@ -51,12 +51,14 @@ The declining ice concentration in the Arctic has far-reaching consequences for 
 
 
 
-![image](https://github.com/user-attachments/assets/16ce43f7-92b4-48a9-b67c-f7fa56cc2216) 
+![image](https://github.com/user-attachments/assets/f693852c-d078-4016-87af-92ec26a5cd94)
+
 
 Fig 3: 1950
 
 
-![image](https://github.com/user-attachments/assets/d92b8f38-4962-402a-9a2e-04928c59f134)
+![image](https://github.com/user-attachments/assets/9798b6a8-2e0f-4f5f-a605-adaef1c5748b)
+
 
 Fig 4: 2019
 

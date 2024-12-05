@@ -68,7 +68,7 @@ This panel plot presents the spatial distribution of mean sea ice concentration 
 
 This panel plot is a valuable tool for understanding the seasonal dynamics of Arctic sea ice and provides insights into how climate variability influences the extent of sea ice coverage throughout the year.
 
-![image](https://github.com/user-attachments/assets/de8f5bd1-c698-446b-b3b4-fdd926eb6453)
+![image](https://github.com/user-attachments/assets/cbeb8196-b875-421b-a68d-8dcf0e9015f4)
 
 Fig 5:
 
@@ -96,22 +96,17 @@ The figure also shows considerable interannual variability throughout the time s
 
 ### Sea ICEC Anomaly
 
-![image](https://github.com/user-attachments/assets/bae32308-43f2-43f5-b3c7-bcf124c0d3a4)
+![image](https://github.com/user-attachments/assets/7190b683-f0ec-4865-997d-eae88f4c42ea)
+
 
 To better understand the patterns of Arctic ice concentration anomalies, we present three animated GIFs that illustrate the mean ice concentration anomalies for the summer months of June, July, and August. These visualizations provide a dynamic and comprehensive view of how sea ice has deviated from its long-term average during the critical summer melt season.
 ### motion
 
-![animation_monthly_7](https://github.com/user-attachments/assets/d52e4fa1-6bb2-4f1f-a98c-f148f669aa34) 
 
 ![animation_monthly_8](https://github.com/user-attachments/assets/135b3079-401e-4127-aa0c-eaba6358b88f)
 
-![animation_monthly_9](https://github.com/user-attachments/assets/d6d35493-e4dd-4e1d-b5d2-5ce97622ad84)
-
-The first animation focuses on July, a pivotal month marking the transition to peak melting conditions. This visualization highlights the early stages of ice loss, showing regions with the most significant anomalies as warmer temperatures begin to dominate. Watch as the anomaly patterns intensify in marginal ice zones, particularly near the edges of the ice pack.
 
 The August GIF showcases the period of accelerated melting. During this time, the Arctic Ocean experiences widespread reductions in ice concentration, with pronounced anomalies spreading across larger areas. This animation underscores how rapidly the Arctic responds to seasonal warming, providing insights into the dynamics of mid-summer ice loss.
-
-The September animation captures the culmination of the melt season, as ice concentration anomalies reach their peak. This GIF reveals regions with persistent negative anomalies, signifying areas where the ice is not recovering as expected. The stark contrast between anomaly zones and the remaining ice underscores the severity of summer ice depletion in recent years.
 
 These animations serve as a powerful tool for visualizing and understanding the summer ice concentration anomalies in the Arctic. They not only highlight the spatial and temporal variability of ice loss but also underscore the urgency of addressing the broader climate drivers influencing these changes.
 
